@@ -21,9 +21,10 @@ namespace PTest1022 {
             //６以上…「６以上です」
 
             /*** ●●● ここへ解答を入力 ●●● ***/
-            
 
+           //Console.WriteLine(outStr.Where(n => (inputNum())? "1" : "1");
 
+           //everything i done is just nothing, and now i hate myself
 
 
             /*** ●●●●● ここまで ●●●●● ***/
@@ -40,10 +41,10 @@ namespace PTest1022 {
 
             /*** ●●● ここへ解答を入力 ●●● ***/
 
+            
 
 
-
-
+            // at this situation, my frastration is high as heck. fuck everything
 
             /*** ●●●●● ここまで ●●●●● ***/
             Console.WriteLine($"〇問題２：{data}\n");
@@ -62,7 +63,7 @@ namespace PTest1022 {
             string title = "";
 
             //▼▼▼▼▼　以下のコメントを切り替えて確認をする 
-            Book book = new Book() { Title = "銀河鉄道の夜", Price = 411, Pages = 276 };
+            //Book book = new Book() { Title = "銀河鉄道の夜", Price = 411, Pages = 276 };
             //Book book = new Book();
             //▲▲▲▲▲
 
@@ -70,7 +71,7 @@ namespace PTest1022 {
             //bookオブジェクトがnullの場合はそのままnullを返却すること
             /*** ●●● ここへ解答を入力 ●●● ***/
 
-
+            //i tried 1 and half hour, then what i get is fucking 0
 
 
 
@@ -90,7 +91,7 @@ namespace PTest1022 {
             
             /*** ●●● ここへ解答を入力 ●●● ***/
 
-
+            
 
 
 
